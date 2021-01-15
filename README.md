@@ -15,7 +15,7 @@ This ReadMe is designed to help you with the last few finishing steps necessary 
 
 ## SPECIFICATIONS
 
-Due to the way .DAZIPs work, you will need to follow a few instructions before you're completely ready. Don't worry, this won't hurt a bit, so long as you're capable of following instructions.
+- Due to the way .DAZIPs work, you will need to follow a few instructions before you're completely ready. Don't worry, this won't hurt a bit, so long as you're capable of following instructions.
 
 ## First off, you will need:
 
