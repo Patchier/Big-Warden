@@ -47,6 +47,7 @@ Install Big Warden via Wabbajack
 6.  From there, just click the "play" button and let it do the rest.
 
 Install the remaining DAZIPs
+---------------------------------
 
 Now comes the only part you really need to do:
 
