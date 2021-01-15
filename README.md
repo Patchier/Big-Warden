@@ -64,22 +64,6 @@ Now comes the only part you really need to do:
 
 7. See the bottom of this ReadMe for instructions to make Awakening in the OC work for you. Believe me, it's worth it.
 
-Starting the game
-------------------------
-
-Once you've finished installing the DAZIPs, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected. Simply click Play to begin your Origins adventure!
-
-Mods to be aware of
-------------------------
-
-Human Noble Background Immersion - Expands the Human Noble background, currently removing the protected flag on a certain NPC and giving the guards unique names. More will come in future updates, and I'll be on the lookout for those. 
-
-Skip the Fade/ Skip Ostagar - These mods do as written, and warrant no further explination. If you would rather not skip these, disable them at the bottom of Mod Organizer.
-
-DABIK - 1440p cutscenes for better pre-rendered goodness. There is a 4K option, but I went with 1440 to make sure it was more accessible.
-
-Awakening in the OC - This is THE big one. This mod pulls in skills, talents, and abilities from Awakening into the base game. It also raises the level cap to 35. An amazing mod that's bound to be fun for everyone. Instructions for finishing this up will be in the last section.
-
 Finishing up Awakening in the OC
 ================================
 
@@ -97,3 +81,19 @@ Find the equivalent of your Program Files\Dragon Age\packages\core_ep1\audio\sou
 Copy the three vfx_spells files.
 Paste them into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound directory (create it if it doesn't exist).
 Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game.
+
+Starting the game
+------------------------
+
+Once you've finished installing the DAZIPs, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected. Simply click Play to begin your Origins adventure!
+
+Mods to be aware of
+------------------------
+
+Human Noble Background Immersion - Expands the Human Noble background, currently removing the protected flag on a certain NPC and giving the guards unique names. More will come in future updates, and I'll be on the lookout for those. 
+
+Skip the Fade/ Skip Ostagar - These mods do as written, and warrant no further explination. If you would rather not skip these, disable them at the bottom of Mod Organizer.
+
+DABIK - 1440p cutscenes for better pre-rendered goodness. There is a 4K option, but I went with 1440 to make sure it was more accessible.
+
+Awakening in the OC - This is THE big one. This mod pulls in skills, talents, and abilities from Awakening into the base game. It also raises the level cap to 35. An amazing mod that's bound to be fun for everyone.
