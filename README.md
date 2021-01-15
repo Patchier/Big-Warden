@@ -71,17 +71,27 @@ Finishing up Awakening in the OC
 The following instructions are copied verbatim from the mod's page. If you have any questions, don't be afraid to ask.
 -----------------------------------------------------------------------------------------------------------------------
 
-Find the equivalent of your Program Files\Dragon Age\packages\core_ep1\data directory.
-Copy all of the .erf files found there.
-Find the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\data directory.
-Paste the copied .erfs into that folder.
-Find the equivalent of your Program Files\Dragon Age\packages\core_ep1 directory.
-Copy the texture folder.
-Paste the copied folder into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core directory.
-Find the equivalent of your Program Files\Dragon Age\packages\core_ep1\audio\sound directory.
-Copy the three vfx_spells files.
-Paste them into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound directory (create it if it doesn't exist).
-Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game.
+1. Find the equivalent of your Program Files\Dragon Age\packages\core_ep1\data directory.
+
+2. Copy all of the .erf files found there.
+
+3. Find the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\data directory.
+
+4. Paste the copied .erfs into that folder.
+
+5. Find the equivalent of your Program Files\Dragon Age\packages\core_ep1 directory.
+
+6. Copy the texture folder.
+
+7. Paste the copied folder into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core directory.
+
+8. Find the equivalent of your Program Files\Dragon Age\packages\core_ep1\audio\sound directory.
+
+9. Copy the three vfx_spells files.
+
+10. Paste them into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound directory (create it if it doesn't exist).
+
+11. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game.
 
 Starting the game
 ------------------------
