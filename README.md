@@ -47,8 +47,6 @@ Install Big Warden via Wabbajack
 Install the remaining DAZIPs
 ---------------------------------
 
-Now comes the only part you really need to do:
-
 1. Upon finishing the Big Warden installation, navigate to Steam/steamapps/common/Dragon Age Ultimate Edition/bin_ship
 
 2. Click on the program titled DAUpdater.exe
