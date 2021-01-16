@@ -86,11 +86,26 @@ Install the remaining DAZIPs
 
 1. Paste them into the \BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound directory (create it if it doesn't exist).
 
-1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game.
+1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
+
+Install Dragon Age Redesigned
+--------------------------------
+
+1. Navigate to your Big Warden installation folder, then find and open ModOrganizer.exe
+
+2. In the top right corner, you will see a drop-down menu next to the play button, which will start with "Dragon Age Redesigned Version 7.3c" selected
+
+3. Click "Run", and start by installing Dracomies True Textures. Do not change any paths, as it is already set to extract to the correct mod folder. 
+
+4. Once done, run this same installer again, this time installing the NPC textures. You have three options to choose from, but I typically go with "Recommended"
+
+5. Next up, go through the different installers for the party: Leliana, Morrigan, Oghren, Sten, Wynne, and Zevran. DO NOT CHOOSE DARKKAMI ZEVRAN!
+
+6. Once you have finished these, double-click on the Dragon Age Redesigned mod in the left pane and make sure there are multiple files there. If you only see Meta, let me know.
 
 ## Starting the game
 
-Once you've finished installing the DAZIPs, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected. Simply click Play to begin your Origins adventure!
+Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected, but if not, simply open the drop down and select it. Simply click Play to begin your Origins adventure!
 
 ## Mods to be aware of
 
