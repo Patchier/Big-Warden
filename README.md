@@ -63,10 +63,10 @@ Install the remaining DAZIPs
 
 # Finishing up Awakening in the OC
 
-#### The following instructions are copied verbatim from the mod's page. If you have any questions, don't be afraid to ask.
+#### Stock Games refers to the folder of the same name, found in your Big Warden installation folder
 --------------------------------------------------------------------------------
 
-1. Find the equivalent of your steamapps\common\Dragon Age\packages\core_ep1\data directory.
+1. Find the equivalent of your Stock Games\packages\core_ep1\data directory.
 
 2. Copy all of the .erf files found there.
 
@@ -74,13 +74,13 @@ Install the remaining DAZIPs
 
 4. Paste the copied .erfs into that folder.
 
-5. Find the equivalent of your steamapps\common\Dragon Age\packages\core_ep1 directory.
+5. Find the equivalent of your Stock Games\packages\core_ep1 directory.
 
 6. Copy the texture folder.
 
 7. Paste the copied folder into the Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core directory.
 
-8. Find the equivalent of your steamapps\common\Dragon Age\packages\core_ep1\audio\sound directory.
+8. Find the equivalent of your Stock Games\packages\core_ep1\audio\sound directory.
 
 9. Copy the three vfx_spells files.
 
