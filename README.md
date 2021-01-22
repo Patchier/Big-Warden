@@ -107,7 +107,7 @@ Install Dragon Age Redesigned
 
 Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected, but if not, simply open the drop down and select it. Simply click Play to begin your Origins adventure!
 
-### If, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to Big Warden/Stock Game/redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of uour addins into the game. 
+### If, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to Big Warden/Stock Game/redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
 
 ## Mods to be aware of
 
