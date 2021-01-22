@@ -47,7 +47,7 @@ Install Big Warden via Wabbajack
 Install the remaining DAZIPs
 ---------------------------------
 
-1. Upon finishing the Big Warden installation, navigate to Steam/steamapps/common/Dragon Age Ultimate Edition/bin_ship
+1. Upon finishing the Big Warden installation, navigate to Big Warden/Stock Game/bin_ship
 
 2. Click on the program titled DAUpdater.exe
 
@@ -66,7 +66,7 @@ Install the remaining DAZIPs
 #### Stock Games refers to the folder of the same name, found in your Big Warden installation folder
 --------------------------------------------------------------------------------
 
-1. Find the equivalent of your Stock Games\packages\core_ep1\data directory.
+1. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1\data directory.
 
 2. Copy all of the .erf files found there.
 
@@ -74,13 +74,13 @@ Install the remaining DAZIPs
 
 4. Paste the copied .erfs into that folder.
 
-5. Find the equivalent of your Stock Games\packages\core_ep1 directory.
+5. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1 directory.
 
 6. Copy the texture folder.
 
 7. Paste the copied folder into the Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core directory.
 
-8. Find the equivalent of your Stock Games\packages\core_ep1\audio\sound directory.
+8. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1\audio\sound directory.
 
 9. Copy the three vfx_spells files.
 
