@@ -111,7 +111,7 @@ Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age 
 
 ## Mods to be aware of
 
-- Human Noble Background Immersion - Expands the Human Noble background, currently removing the protected flag on a certain NPC and giving the guards unique names. More will come in future updates, and I'll be on the lookout for those. 
+- Human Noble Background Immersion - Expands the Human Noble background, currently removing the protected flag on a certain NPC and giving the guards unique names. More will come in future updates, and I'll be on the lookout for those. WARNING: When the attack arrives, move quickly, otherwise the castle will fall...and you along with it.
 
 - Skip the Fade/ Skip Ostagar - These mods do as written, and warrant no further explination. If you would rather not skip these, disable them at the bottom of Mod Organizer.
 
