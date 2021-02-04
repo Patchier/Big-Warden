@@ -4,7 +4,7 @@ January 15th, 2021 - Full Install: ~37GB.
 
 ## OVERVIEW
 
-This ReadMe is designed to help you with the last few finishing steps necessary to enjoy Big Warden as I envisioned, and currently play, it. 
+This ReadMe is designed to help you with the last few finishing steps necessary to enjoy Big Warden as I personally enjoy it. 
 
 ## GOALS
 
@@ -34,7 +34,7 @@ Install Big Warden via Wabbajack
 
 1.  Simply open the Wabbajack UI, which can be acquired from here if you don't already have it: <https://www.wabbajack.org/#/>. 
 
-2.  Once you've installed Wabbajack, or if you already have it, open it up and choose "Browse Modists". 
+2.  Once you've installed Wabbajack, or if you already have it, open it up and choose "Browse Modlists". 
 
 3.  From there, you will download "Big Warden" by clicking the little down arrow. 
 
@@ -97,15 +97,15 @@ Install Dragon Age Redesigned
 
 3. Click "Run", and start by installing Dracomies True Textures. Do not change any paths, as it is already set to extract to the correct mod folder. 
 
-4. Once done, run this same installer again, this time installing the NPC textures. You have three options to choose from, but I typically go with "Recommended"
+4. Once done, run "Dragon Age Redesigned Version 7.3c", this time installing the NPC textures (i.e. Not Dracomies). You have three options to choose from, but I typically go with "Recommended". You may choose whichever you prefer.
 
-5. Next up, go through the different installers for the party: Leliana, Morrigan, Oghren, Sten, Wynne, and Zevran. DO NOT CHOOSE DARKKAMI ZEVRAN!
+5. Next up, go through the different installers for the party: Leliana, Morrigan, Oghren, Sten, Wynne, and Zevran. You may choose any options here you prefer, EXCEPT for Darkkami Zevran. Comparison images will be located in the ZIP files for each character, present in downloads. I typically go with lore options, and Leliana Version 11.
 
 6. Once you have finished these, double-click on the Dragon Age Redesigned mod in the left pane and make sure there are multiple files there. If you only see Meta, let me know.
 
 ## Starting the game
 
-Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, you may open the ModOrganizer.exe present in your Big Warden folder. In the top right, Dragon Age Origins should already be selected, but if not, simply open the drop down and select it. Simply click Play to begin your Origins adventure!
+Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
 
 ### If, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to Big Warden/Stock Game/redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
 
