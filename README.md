@@ -66,27 +66,31 @@ Install the remaining DAZIPs
 #### Stock Games refers to the folder of the same name, found in your Big Warden installation folder
 --------------------------------------------------------------------------------
 
-1. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1\data directory.
+1. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\data" directory.
 
 2. Copy all of the .erf files found there.
 
-3. Find the Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\data directory.
+3. Find the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\data" directory.
 
 4. Paste the copied .erfs into that folder.
 
-5. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1 directory.
+5. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1" directory.
 
 6. Copy the texture folder.
 
-7. Paste the copied folder into the Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core directory.
+7. Paste the copied folder into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core" directory.
 
-8. Find the equivalent of your Big Warden\Stock Game\packages\core_ep1\audio\sound directory.
+8. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\audio\sound" directory.
 
 9. Copy the three vfx_spells files.
 
-1. Paste them into the Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound directory (create it if it doesn't exist).
+1. Paste them into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound" directory (create it if it doesn't exist).
 
 1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
+
+12. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\patch" folder
+
+13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
 Install Dragon Age Redesigned
 --------------------------------
