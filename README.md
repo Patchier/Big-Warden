@@ -97,7 +97,7 @@ Install Dragon Age Redesigned
 
 1. Navigate to your Big Warden installation folder, then find and open ModOrganizer.exe
 
-2. In the top right corner, you will see a drop-down menu next to the play button, which will start with "Dragon Age Redesigned Version 7.3c" selected
+2. In the top right corner, you will see a drop-down menu next to the play button, which will start with "Dragon Age Redesigned Version 7.3c" selected. If not, select it from the drop-down.
 
 3. Click "Run", and start by installing Dracomies True Textures. Do not change any paths, as it is already set to extract to the correct mod folder. 
 
@@ -105,7 +105,9 @@ Install Dragon Age Redesigned
 
 5. Next up, go through the different installers for the party: Leliana, Morrigan, Oghren, Sten, Wynne, and Zevran. You may choose any options here you prefer, EXCEPT for Darkkami Zevran. Comparison images will be located in the ZIP files for each character, present in downloads. I typically go with lore options, and Leliana Version 11.
 
-6. Once you have finished these, double-click on the Dragon Age Redesigned mod in the left pane and make sure there are multiple files there. If you only see Meta, let me know.
+6. Finally, the final installers will be for the expansions. Do those as well, if you so choose. 
+
+7. Once you have finished these, double-click on the Dragon Age Redesigned mod in the left pane and make sure there are multiple files there. If you only see Meta, let me know.
 
 ## Starting the game
 
