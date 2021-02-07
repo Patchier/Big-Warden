@@ -70,10 +70,10 @@ Install the remaining DAZIPs
 
 7. See the bottom of this ReadMe for instructions to make Awakening in the OC work for you. Believe me, it's worth it.
 
-# Finishing up Awakening in the OC (Note: GOG users will use GOG Galaxy\Games\Dragon age Origins in place of the Steam path)
+# Finishing up Awakening in the OC (Note: GOG users will use GOG Galaxy paths (GOG Galaxy\Games\Dragin Age Origins) and Steam users (steam\steamapps\common\Dragon Age Ultimate Edition) instead of (Game_Install_Location))
 --------------------------------------------------------------------------------
 
-1. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\data" directory.
+1. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\data" directory.
 
 2. Copy all of the .erf files found there.
 
@@ -81,13 +81,13 @@ Install the remaining DAZIPs
 
 4. Paste the copied .erfs into that folder.
 
-5. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1" directory.
+5. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1" directory.
 
 6. Copy the texture folder.
 
 7. Paste the copied folder into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core" directory.
 
-8. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\audio\sound" directory.
+8. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\audio\sound" directory.
 
 9. Copy the three vfx_spells files.
 
@@ -95,7 +95,7 @@ Install the remaining DAZIPs
 
 1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
 
-12. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\patch" folder
+12. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\patch" folder
 
 13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
