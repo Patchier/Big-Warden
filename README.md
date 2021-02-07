@@ -44,10 +44,19 @@ Install Big Warden via Wabbajack
 
 6.  From there, just click the "play" button and let it do the rest.
 
+Copy over the LAA Patched EXE (Steam users only)
+------------------------------------------------
+
+1. After the installation has completed, navigate to your Big Warden installation folder
+
+2. Open the folder labeled "Game Folder Files"
+
+3. Inside of this folder will be a copy of the Dragon Age: Origins EXE that has been patched to use 4GB of memory. Copy this exe to your steamapps/common/Dragon Age Ultimate Edition/bin_ship folder. Overwrite when prompted.
+
 Install the remaining DAZIPs
 ---------------------------------
 
-1. Upon finishing the Big Warden installation, navigate to Big Warden/Stock Game/bin_ship
+1. Upon finishing the Big Warden installation, navigate to steamapps/common/Dragon Age Ultimate Edition/bin_ship
 
 2. Click on the program titled DAUpdater.exe
 
@@ -61,12 +70,10 @@ Install the remaining DAZIPs
 
 7. See the bottom of this ReadMe for instructions to make Awakening in the OC work for you. Believe me, it's worth it.
 
-# Finishing up Awakening in the OC
-
-#### Stock Games refers to the folder of the same name, found in your Big Warden installation folder
+# Finishing up Awakening in the OC (Note: GOG users will use GOG Galaxy\Games\Dragon age Origins in place of the Steam path)
 --------------------------------------------------------------------------------
 
-1. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\data" directory.
+1. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\data" directory.
 
 2. Copy all of the .erf files found there.
 
@@ -80,7 +87,7 @@ Install the remaining DAZIPs
 
 7. Paste the copied folder into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core" directory.
 
-8. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\audio\sound" directory.
+8. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\audio\sound" directory.
 
 9. Copy the three vfx_spells files.
 
@@ -88,7 +95,7 @@ Install the remaining DAZIPs
 
 1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
 
-12. Find the equivalent of your "Big Warden\Stock Game\packages\core_ep1\patch" folder
+12. Find the equivalent of your "steamapps\common\Dragon Age Ultimate Edition\packages\core_ep1\patch" folder
 
 13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
@@ -113,7 +120,7 @@ Install Dragon Age Redesigned
 
 Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
 
-### If, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to Big Warden/Stock Game/redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
+### If using Steam and, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to steamapps\common\Dragon Age Ultimate Edition\redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
 
 ## Mods to be aware of
 
