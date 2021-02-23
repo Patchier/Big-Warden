@@ -99,6 +99,10 @@ Install the remaining DAZIPs
 
 13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
+14. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\patch" folder.
+
+15. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
+
 Install Dragon Age Redesigned
 --------------------------------
 
