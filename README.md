@@ -93,15 +93,11 @@ Install the remaining DAZIPs
 
 1. Paste them into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound" directory (create it if it doesn't exist).
 
-1. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
-
 12. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\patch" folder
 
 13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
-14. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\patch" folder.
-
-15. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
+14. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
 
 Install Dragon Age Redesigned
 --------------------------------
