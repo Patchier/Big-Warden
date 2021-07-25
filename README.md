@@ -66,7 +66,7 @@ Install the remaining DAZIPs
 
 3. Choose "Select DAZIPs", and navigate to your Big Warden installation folder. 
 
-4. There, inside of Game Folder Files, will be 8 DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater.
+4. There, inside of Game Folder Files, will be 8 DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater. Note: You may not be able to do them all at once due to some additions recently. 
 
 5. Select all of the DAZIPs within DAUpdater, and choose "Install Selected".
 
