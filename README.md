@@ -55,6 +55,8 @@ Copy over the LAA Patched EXE (Steam users only) AND upscaled cutscenes (all use
 
 4. While you're here, also copy over the three folders present here (Addins, Modules, Packages) to your Dragon Age Ultimate Edition installation folder, overwriting when asked. 
 
+5. In your Big Warden installation folder, you will see a folder named "COPY THIS FILE TO DOCUMENTS-BIOWARE-DRAGON AGE-SETTINGS". You will copy the file inside this folder to...well...Documents\BioWare\Dragon Age\Settings. Overwrite when asked.
+
 Install the remaining DAZIPs
 ---------------------------------
 
