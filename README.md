@@ -44,14 +44,14 @@ Install Big Warden via Wabbajack
 
 6.  From there, just click the "play" button and let it do the rest.
 
-Copy over the LAA Patched EXE (Steam users only) AND upscaled cutscenes (all users)
+Copy over the LAA Patched EXE AND upscaled cutscenes (all users)
 -----------------------------------------------------------------------------------
 
 1. After the installation has completed, navigate to your Big Warden installation folder
 
 2. Open the folder labeled "Game Folder Files"
 
-3. Inside of this folder will be a copy of the Dragon Age: Origins EXE that has been patched to use 4GB of memory. Copy this exe to your steamapps/common/Dragon Age Ultimate Edition/bin_ship folder. Overwrite when prompted. 
+3. Inside of this folder will be a copy of the Dragon Age: Origins EXE that has been patched to use 4GB of memory. Copy this exe to your Dragon Age Ultimate Edition/bin_ship folder. Overwrite when prompted. 
 
 4. While you're here, also copy over the three folders present here (Addins, Modules, Packages) to your Dragon Age Ultimate Edition installation folder, overwriting when asked. 
 
