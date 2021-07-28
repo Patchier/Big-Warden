@@ -66,7 +66,7 @@ Install the remaining DAZIPs
 
 3. Choose "Select DAZIPs", and navigate to your Big Warden installation folder. 
 
-4. There, inside of Game Folder Files, will be 8 DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater. Note: You may not be able to do them all at once due to some additions recently. 
+4. There, inside of Game Folder Files, will be 8 DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater. Note: You may not be able to do them all at once due to some additions recently. There are also several promotional DAZIPs located in the "Promotional Items" folder which may be installed if you so choose.
 
 5. Select all of the DAZIPs within DAUpdater, and choose "Install Selected".
 
@@ -101,7 +101,9 @@ Install the remaining DAZIPs
 
 13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
 
-14. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
+14. In the "Game Folder Files" folder, you will find three .bat files which fix issues importing DLC items into Awakening. Choose the one associated with which platform you own the game on and run it.
+
+15. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
 
 Install Dragon Age Redesigned
 --------------------------------
