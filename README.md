@@ -29,6 +29,10 @@ This ReadMe is designed to help you with the last few finishing steps necessary 
 
 - While you're here, run the game once, and choose "Configure". Then, in the Video Settings, choose whichever options you desire. (I maxxed mine out with a 16:9 display, and to skip the intro movies)
 
+- Go to the main menu, check the "Other Campaigns" option, and exit
+
+### If using Steam and, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to steamapps\common\Dragon Age Ultimate Edition\redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
+
 Install Big Warden via Wabbajack
 -----------------------------------------
 
@@ -125,8 +129,6 @@ Install Dragon Age Redesigned
 ## Starting the game
 
 Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
-
-### If using Steam and, upon loading the game, the "other campaigns" button is darkened, exit the game, navigate to steamapps\common\Dragon Age Ultimate Edition\redist, and run DAOU_UpdateAddinsXML_Steam.exe. This should pull all of your addins into the game. 
 
 ## Mods to be aware of
 
