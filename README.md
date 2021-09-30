@@ -19,7 +19,7 @@ This ReadMe is designed to help you with the last few finishing steps necessary 
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL Steam installation of Dragon Age Origins: Ultimate Edition (note: I am using this on Steam, and am unsure if this will work with Origin. It DOES require all of the DLC, so Ultimate Edition is likely required.)
+-   A clean, fresh, and LEGAL installation of Dragon Age Origins: Ultimate Edition It DOES require all of the DLC, so Ultimate Edition is likely required.
 
 ## Install Dragon Age: Origins Ultimate Edition
 
