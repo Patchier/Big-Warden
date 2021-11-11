@@ -61,6 +61,8 @@ Copy over the LAA Patched EXE AND upscaled cutscenes (all users)
 
 5. In your Big Warden installation folder, you will see a folder named "COPY THIS FILE TO DOCUMENTS-BIOWARE-DRAGON AGE-SETTINGS". You will copy the file inside this folder to...well...Documents\BioWare\Dragon Age\Settings. Overwrite when asked.
 
+6. Ditto for the folder named "COPY THIS FILE TO YOUR DRAGON AGE INSTALLATION FOLDER - DATA", except it goes in your DA install location's data folder. Overwrite when asked.
+
 Install the remaining DAZIPs
 ---------------------------------
 
@@ -70,7 +72,7 @@ Install the remaining DAZIPs
 
 3. Choose "Select DAZIPs", and navigate to your Big Warden installation folder. 
 
-4. There, inside of Game Folder Files, will be several DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater. Note: You may not be able to do them all at once due to some additions recently. There are also several promotional DAZIPs located in the "Promotional Items" folder which may be installed if you so choose.
+4. There, inside of Other Necessary DAZips, will be several DAZIPs that you will need to install using the DAUpdater. Simply select them, and they should appear in DAUpdater. Note: You may not be able to do them all at once due to some additions recently. There are also several promotional DAZIPs located in the "Promotional Items" folder which may be installed if you so choose.
 
 5. Select all of the DAZIPs within DAUpdater, and choose "Install Selected".
 
@@ -117,7 +119,5 @@ Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age 
 
 - Skip the Fade/ Skip Ostagar - These mods do as written, and warrant no further explination. If you would rather not skip these, disable them at the bottom of Mod Organizer.
 (NOTE: Some people have had issues when skipping Ostagar where the tutorial attempts to force them to select Alistair when he is not in the party. If you plan to skip Ostagar, be sure to disable tutorials, just in case)
-
-- DABIK - 1440p cutscenes for better pre-rendered goodness. There is a 4K option, but I went with 1440 to make sure it was more accessible.
 
 - Awakening in the OC - This is THE big one. This mod pulls in skills, talents, and abilities from Awakening into the base game. It also raises the level cap to 35. An amazing mod that's bound to be fun for everyone.
