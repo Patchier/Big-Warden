@@ -78,39 +78,6 @@ Install the remaining DAZIPs
 
 6. Wait for all of them to read "installed". Afterwards, you may close the program. 
 
-7. See the bottom of this ReadMe for instructions to make Awakening in the OC work for you. Believe me, it's worth it.
-
-# Finishing up Awakening in the OC (Note: GOG users will use GOG Galaxy paths (GOG Galaxy\Games\Dragin Age Origins) and Steam users (steam\steamapps\common\Dragon Age Ultimate Edition) instead of (Game_Install_Location))
---------------------------------------------------------------------------------
-
-1. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\data" directory.
-
-2. Copy all of the .erf files found there.
-
-3. Find the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\data" directory.
-
-4. Paste the copied .erfs into that folder.
-
-5. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1" directory.
-
-6. Copy the texture folder.
-
-7. Paste the copied folder into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core" directory.
-
-8. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\audio\sound" directory.
-
-9. Copy the three vfx_spells files.
-
-1. Paste them into the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\audio\sound" directory (create it if it doesn't exist).
-
-12. Find the equivalent of your "(Game_Install_Location)\packages\core_ep1\patch" folder
-
-13. Copy the .erf file found there to the "Documents\BioWare\Dragon Age\AddIns\gxa_res_to_core\core\override" directory.
-
-14. In the "Game Folder Files" folder, you will find three .bat files which fix issues importing DLC items into Awakening. Choose the one associated with which platform you own the game on and run it.
-
-15. Activate the 'Awakening in the OC' Addon via the Downloadable Contents menu in-game once you've launched it later on.
-
 ## Starting the game
 
 Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age Redesigned, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
@@ -119,5 +86,3 @@ Once you've finished installing the DAZIPs, Awakening in the OC, and Dragon Age 
 
 - Skip the Fade/ Skip Ostagar - These mods do as written, and warrant no further explination. If you would rather not skip these, disable them at the bottom of Mod Organizer.
 (NOTE: Some people have had issues when skipping Ostagar where the tutorial attempts to force them to select Alistair when he is not in the party. If you plan to skip Ostagar, be sure to disable tutorials, just in case)
-
-- Awakening in the OC - This is THE big one. This mod pulls in skills, talents, and abilities from Awakening into the base game. It also raises the level cap to 35. An amazing mod that's bound to be fun for everyone.
