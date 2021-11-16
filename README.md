@@ -63,6 +63,8 @@ Copy over the LAA Patched EXE AND upscaled cutscenes (all users)
 
 6. Ditto for the folder named "COPY THIS FILE TO YOUR DRAGON AGE INSTALLATION FOLDER - DATA", except it goes in your DA install location's data folder. Overwrite when asked.
 
+7. Ditto again for "COPY THIS FILE INTO YOUR DOCUMENTS-BIOWARE-DRAGON AGE-CORE-DATA". You know the drill.
+
 Install the remaining DAZIPs
 ---------------------------------
 
