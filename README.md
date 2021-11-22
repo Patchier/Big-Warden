@@ -82,6 +82,8 @@ Install the remaining DAZIPs
 
 7. Also, in the Big Warden installation folder. you will see: COPY THE FOLDER IN HERE TO YOUR DOCUMENTS - BIOWARE - DRAGON AGE - ADDINS FOLDER. You can probably guess where this one goes. Ignore everything except the folder inside. Overwrite when asked.
 
+8. After all of this is done, open the Game Folder Files folder in your Big Warden installation. Now, run whichever .BAT file corresponds to the storefront you own Dragon Age through. This fixes some issues with DLC items not properly transferring to Awakening, so it IS an important step.
+
 ## Starting the game
 
 Once you've finished installing the DAZIPs, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
