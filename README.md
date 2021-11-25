@@ -59,12 +59,6 @@ Copy over the LAA Patched EXE AND upscaled cutscenes (all users)
 
 4. While you're here, also copy over the three folders present here (Addins, Modules, Packages) to your Dragon Age Ultimate Edition installation folder, overwriting when asked. 
 
-5. In your Big Warden installation folder, you will see a folder named "COPY THIS FILE TO DOCUMENTS-BIOWARE-DRAGON AGE-SETTINGS". You will copy the file inside this folder to...well...Documents\BioWare\Dragon Age\Settings. Overwrite when asked.
-
-6. Ditto for the folder named "COPY THIS FILE TO YOUR DRAGON AGE INSTALLATION FOLDER - DATA", except it goes in your DA install location's data folder. Overwrite when asked.
-
-7. Ditto again for "COPY THIS FILE INTO YOUR DOCUMENTS-BIOWARE-DRAGON AGE-PACKAGES-CORE-DATA". You know the drill.
-
 Install the remaining DAZIPs
 ---------------------------------
 
@@ -83,6 +77,12 @@ Install the remaining DAZIPs
 7. Also, in the Big Warden installation folder. you will see: COPY THE FOLDER IN HERE TO YOUR DOCUMENTS - BIOWARE - DRAGON AGE - ADDINS FOLDER. You can probably guess where this one goes. Ignore everything except the folder inside. Overwrite when asked.
 
 8. After all of this is done, open the Game Folder Files folder in your Big Warden installation. Now, run whichever .BAT file corresponds to the storefront you own Dragon Age through. This fixes some issues with DLC items not properly transferring to Awakening, so it IS an important step.
+
+9. In your Big Warden installation folder, you will see a folder named "COPY THIS FILE TO DOCUMENTS-BIOWARE-DRAGON AGE-SETTINGS". You will copy the file inside this folder to...well...Documents\BioWare\Dragon Age\Settings. Overwrite when asked.
+
+10. Ditto for the folder named "COPY THIS FILE TO YOUR DRAGON AGE INSTALLATION FOLDER - DATA", except it goes in your DA install location's data folder. Overwrite when asked.
+
+11. Ditto again for "COPY THIS FILE INTO YOUR DOCUMENTS-BIOWARE-DRAGON AGE-PACKAGES-CORE-DATA". You know the drill.
 
 ## Starting the game
 
