@@ -86,7 +86,7 @@ Install the remaining DAZIPs
 
 ## Starting the game
 
-Once you've finished installing the DAZIPs, and assuming you followed the order present in this readme, you should have Mod Organizer opened already. If so, simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure. If you DIDN'T follow the order in the readme, then simply open Mod Organizer and do the exact same thing. 
+Once you've finished installing the DAZIPs, open Mod Organizer 2 from your Big Warden installation folder, then simply choose Dragon Age Origins from the dropdown menu in the top right, and click "Play" to begin your adventure.
 
 ## Mods to be aware of
 
